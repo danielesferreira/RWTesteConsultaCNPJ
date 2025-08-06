@@ -1,0 +1,57 @@
+{
+  "abertura": "18/06/2024",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "PL MODA INTIMA LTDA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "logradouro": "RUA PADRE CARAPUCEIRO",
+  "numero": "777",
+  "complemento": "LOJA 154 155 156 BV",
+  "municipio": "RECIFE",
+  "bairro": "BOA VIAGEM",
+  "uf": "PE",
+  "cep": "51.020-280",
+  "email": "contabilidade@highstil.com.br",
+  "telefone": "(11) 3611-5573",
+  "data_situacao": "18/06/2024",
+  "cnpj": "35.473.287/0020-14",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "4000000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

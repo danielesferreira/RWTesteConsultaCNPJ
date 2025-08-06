@@ -1,0 +1,97 @@
+{
+  "abertura": "06/06/2018",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "BOTICARIO PRODUTOS DE BELEZA LTDA",
+  "fantasia": "O BOTICARIO",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    },
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    },
+    {
+      "code": "47.55-5-01",
+      "text": "Comércio varejista de tecidos"
+    },
+    {
+      "code": "47.55-5-03",
+      "text": "Comercio varejista de artigos de cama, mesa e banho"
+    },
+    {
+      "code": "47.59-8-99",
+      "text": "Comércio varejista de outros artigos de uso doméstico não especificados anteriormente"
+    },
+    {
+      "code": "47.61-0-01",
+      "text": "Comércio varejista de livros"
+    },
+    {
+      "code": "47.61-0-02",
+      "text": "Comércio varejista de jornais e revistas"
+    },
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    },
+    {
+      "code": "47.62-8-00",
+      "text": "Comércio varejista de discos, CDs, DVDs e fitas"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.89-0-05",
+      "text": "Comércio varejista de produtos saneantes domissanitários"
+    }
+  ],
+  "logradouro": "RUA PADRE CARAPUCEIRO",
+  "numero": "777",
+  "complemento": "LOJA 67 68 BV",
+  "municipio": "RECIFE",
+  "bairro": "BOA VIAGEM",
+  "uf": "PE",
+  "cep": "51.020-280",
+  "email": "g_cscsocietario@grupoboticario.com.br",
+  "telefone": "(41) 3521-3400",
+  "data_situacao": "06/06/2018",
+  "cnpj": "11.137.051/0602-43",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "1976882502.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

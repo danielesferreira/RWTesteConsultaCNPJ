@@ -1,0 +1,69 @@
+{
+  "abertura": "06/07/2023",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "DROGARIA SAO PAULO S.A.",
+  "fantasia": "DROGARIA SAO PAULO",
+  "porte": "DEMAIS",
+  "natureza_juridica": "205-4 - Sociedade Anônima Fechada",
+  "atividade_principal": [
+    {
+      "code": "47.71-7-01",
+      "text": "Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.29-6-02",
+      "text": "Comércio varejista de mercadorias em lojas de conveniência"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "86.30-5-06",
+      "text": "Serviços de vacinação e imunização humana"
+    },
+    {
+      "code": "86.50-0-99",
+      "text": "Atividades de profissionais da área de saúde não especificadas anteriormente"
+    }
+  ],
+  "logradouro": "RUA RIBEIRO DE BRITO",
+  "numero": "928",
+  "complemento": "LOJA 0001",
+  "municipio": "RECIFE",
+  "bairro": "BOA VIAGEM",
+  "uf": "PE",
+  "cep": "51.021-310",
+  "email": "fiscal@dpsp.com.br",
+  "telefone": "(11) 3274-7400",
+  "data_situacao": "06/07/2023",
+  "cnpj": "61.412.110/1233-11",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "654773303.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

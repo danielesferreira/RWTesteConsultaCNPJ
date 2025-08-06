@@ -1,0 +1,62 @@
+{
+  "abertura": "14/08/2017",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "FAMILIA SILVA ARTIGOS ESPORTIVOS LTDA",
+  "fantasia": "WORLD TENNIS",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ANDRE LEONARDO FOGLIETTI SILVA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA PADRE CARAPUCEIRO",
+  "numero": "777",
+  "complemento": "BV099 SHOPPING RECIFE",
+  "municipio": "RECIFE",
+  "bairro": "BOA VIAGEM",
+  "uf": "PE",
+  "cep": "51.020-280",
+  "telefone": "(81) 3466-2773",
+  "data_situacao": "14/08/2017",
+  "cnpj": "28.412.969/0001-99",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "93700.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

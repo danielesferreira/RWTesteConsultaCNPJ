@@ -1,0 +1,98 @@
+{
+  "abertura": "05/07/2023",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MCB COMERCIO VAREJISTA DE ARTIGOS DE ARMARINHO LTDA",
+  "fantasia": "CIA DA MONTAGEM - COLLAB CLUB DA MICANGA",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.55-5-02",
+      "text": "Comercio varejista de artigos de armarinho"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "32.12-4-00",
+      "text": "Fabricação de bijuterias e artefatos semelhantes"
+    },
+    {
+      "code": "46.41-9-03",
+      "text": "Comércio atacadista de artigos de armarinho"
+    },
+    {
+      "code": "47.61-0-03",
+      "text": "Comércio varejista de artigos de papelaria"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.83-1-01",
+      "text": "Comércio varejista de artigos de joalheria"
+    },
+    {
+      "code": "47.83-1-02",
+      "text": "Comércio varejista de artigos de relojoaria"
+    },
+    {
+      "code": "47.89-0-01",
+      "text": "Comércio varejista de suvenires, bijuterias e artesanatos"
+    },
+    {
+      "code": "47.89-0-99",
+      "text": "Comércio varejista de outros produtos não especificados anteriormente"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "MARIA CLARA BARRADAS DE MIRANDA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA CONEGO BARATA",
+  "numero": "83",
+  "municipio": "RECIFE",
+  "bairro": "TAMARINEIRA",
+  "uf": "PE",
+  "cep": "52.051-020",
+  "email": "maria-claramiranda@hotmail.com",
+  "telefone": "(81) 3224-8020",
+  "data_situacao": "05/07/2023",
+  "cnpj": "51.315.195/0001-08",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "80000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2025",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

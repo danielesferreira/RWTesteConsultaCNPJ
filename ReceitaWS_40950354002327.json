@@ -1,0 +1,61 @@
+{
+  "abertura": "19/12/2024",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "R V COMERCIO DE CONFECCOES LTDA",
+  "fantasia": "MIOCHE",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios (Dispensada *)"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados (Dispensada *)"
+    },
+    {
+      "code": "47.82-2-02",
+      "text": "Comércio varejista de artigos de viagem (Dispensada *)"
+    }
+  ],
+  "logradouro": "R PADRE CARAPUCEIRO",
+  "numero": "777",
+  "complemento": "LOJA 0100",
+  "municipio": "RECIFE",
+  "bairro": "BOA VIAGEM",
+  "uf": "PE",
+  "cep": "51.020-280",
+  "email": "adminiatracao@mioche.com.br",
+  "telefone": "(83) 3331-1861",
+  "data_situacao": "19/12/2024",
+  "cnpj": "40.950.354/0023-27",
+  "ultima_atualizacao": "2025-07-25T12:28:21.685Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": "01/07/2007",
+    "data_exclusao": "30/11/2017",
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "abertura": "20/08/2024",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "QCD COMERCIO DE CALCADOS LTDA",
+  "fantasia": "RODA GIGANTE",
+  "porte": "MICRO EMPRESA",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "LEONARDO LOPES DE ANDRADE",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA PADRE CARAPUCEIRO",
+  "numero": "777",
+  "complemento": "LOJA 0100 BV LOJA BV 100B",
+  "municipio": "RECIFE",
+  "bairro": "BOA VIAGEM",
+  "uf": "PE",
+  "cep": "51.020-280",
+  "email": "financeirogrupoaf@gmail.com",
+  "telefone": "(83) 3341-4915 / (0000) 0000-0000",
+  "data_situacao": "20/08/2024",
+  "cnpj": "56.924.423/0001-52",
+  "ultima_atualizacao": "2025-06-15T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "100000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "20/08/2024",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

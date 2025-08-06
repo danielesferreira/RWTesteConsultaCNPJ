@@ -1,0 +1,90 @@
+{
+  "abertura": "19/06/2012",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "MUNDO VX9 COMERCIO E SERVICOS DE TELEFONIA E INFORMATICA LTDA",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.52-1-00",
+      "text": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.13-0-02",
+      "text": "Lojas de variedades, exceto lojas de departamentos ou magazines"
+    },
+    {
+      "code": "47.51-2-01",
+      "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+    },
+    {
+      "code": "47.53-9-00",
+      "text": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+    },
+    {
+      "code": "47.57-1-00",
+      "text": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+    },
+    {
+      "code": "47.63-6-01",
+      "text": "Comércio varejista de brinquedos e artigos recreativos"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.89-0-08",
+      "text": "Comércio varejista de artigos fotográficos e para filmagem"
+    },
+    {
+      "code": "62.09-1-00",
+      "text": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "THALES VALLADARES CAMARGO",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA PADRE CARAPUCEIRO",
+  "numero": "777",
+  "complemento": "LOJA BV 072 SHOPPING RECIFE",
+  "municipio": "RECIFE",
+  "bairro": "BOA VIAGEM",
+  "uf": "PE",
+  "cep": "51.020-900",
+  "email": "mundovx9comercio@gmail.com",
+  "telefone": "(81) 1001-2000 / (81) 3465-8724",
+  "data_situacao": "19/06/2012",
+  "cnpj": "15.738.630/0001-35",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "88000.00",
+  "simples": {
+    "optante": true,
+    "data_opcao": "01/01/2017",
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

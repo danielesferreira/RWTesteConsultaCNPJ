@@ -1,0 +1,57 @@
+{
+  "abertura": "10/06/2020",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "GS FARMA COMERCIO E DISTRIBUICAO LTDA",
+  "fantasia": "DROGARIA BONGI",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.71-7-01",
+      "text": "Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas"
+    }
+  ],
+  "logradouro": "RUA RIBEIRO DE BRITO",
+  "numero": "830",
+  "complemento": "LOJA 0014 CTR EMP IBERBRAS A",
+  "municipio": "RECIFE",
+  "bairro": "BOA VIAGEM",
+  "uf": "PE",
+  "cep": "51.021-310",
+  "email": "contabilidade@gsfarma.com.br",
+  "telefone": "(81) 3466-7071",
+  "data_situacao": "10/06/2020",
+  "cnpj": "25.404.162/0009-73",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "atividades_secundarias": [
+    {
+      "code": "00.00-0-00",
+      "text": "Não informada"
+    }
+  ],
+  "capital_social": "200000.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

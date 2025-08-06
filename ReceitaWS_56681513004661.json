@@ -1,0 +1,65 @@
+{
+  "abertura": "17/04/2009",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "P. K. K. CALCADOS LTDA",
+  "porte": "DEMAIS",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.82-2-01",
+      "text": "Comércio varejista de calçados"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.82-2-02",
+      "text": "Comércio varejista de artigos de viagem"
+    },
+    {
+      "code": "47.81-4-00",
+      "text": "Comércio varejista de artigos do vestuário e acessórios"
+    },
+    {
+      "code": "47.63-6-02",
+      "text": "Comércio varejista de artigos esportivos"
+    }
+  ],
+  "logradouro": "R PADRE CARAPUCEIRO",
+  "numero": "777",
+  "complemento": "LOJA 087",
+  "municipio": "RECIFE",
+  "bairro": "BOA VIAGEM",
+  "uf": "PE",
+  "cep": "51.020-900",
+  "email": "setorfiscal@di-satinni.com.br",
+  "telefone": "(11) 2950-2565/ (11) 2950-3065",
+  "data_situacao": "17/04/2009",
+  "cnpj": "56.681.513/0046-61",
+  "ultima_atualizacao": "2025-08-01T03:06:34.490Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "0.00",
+  "qsa": [],
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-06-15T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}

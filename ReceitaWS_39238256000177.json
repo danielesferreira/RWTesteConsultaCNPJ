@@ -1,0 +1,66 @@
+{
+  "abertura": "29/09/2020",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "VITABRASIL RECIFE COMERCIO DE VITAMINAS LTDA",
+  "fantasia": "VITABRASILNET",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "atividade_principal": [
+    {
+      "code": "47.29-6-99",
+      "text": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "47.63-6-02",
+      "text": "Comércio varejista de artigos esportivos"
+    },
+    {
+      "code": "47.72-5-00",
+      "text": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "ROGERIO MOTA NUMERIANO DE SA",
+      "qual": "49-Sócio-Administrador"
+    }
+  ],
+  "logradouro": "RUA PADRE CARAPUCEIRO",
+  "numero": "777",
+  "complemento": "LOJA 0064 BV",
+  "municipio": "RECIFE",
+  "bairro": "BOA VIAGEM",
+  "uf": "PE",
+  "cep": "51.020-280",
+  "telefone": "(81) 3265-0003",
+  "data_situacao": "29/09/2020",
+  "cnpj": "39.238.256/0001-77",
+  "ultima_atualizacao": "2025-07-13T23:59:59.000Z",
+  "status": "OK",
+  "email": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "50000.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}
