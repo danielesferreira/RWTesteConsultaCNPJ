@@ -1,0 +1,14 @@
+C:\RWTesteConsultaCNPJ\bin\Debug\net9.0\RWTesteConsultaCNPJ.exe
+C:\RWTesteConsultaCNPJ\bin\Debug\net9.0\RWTesteConsultaCNPJ.deps.json
+C:\RWTesteConsultaCNPJ\bin\Debug\net9.0\RWTesteConsultaCNPJ.runtimeconfig.json
+C:\RWTesteConsultaCNPJ\bin\Debug\net9.0\RWTesteConsultaCNPJ.dll
+C:\RWTesteConsultaCNPJ\bin\Debug\net9.0\RWTesteConsultaCNPJ.pdb
+C:\RWTesteConsultaCNPJ\obj\Debug\net9.0\RWTesteConsultaCNPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\RWTesteConsultaCNPJ\obj\Debug\net9.0\RWTesteConsultaCNPJ.AssemblyInfoInputs.cache
+C:\RWTesteConsultaCNPJ\obj\Debug\net9.0\RWTesteConsultaCNPJ.AssemblyInfo.cs
+C:\RWTesteConsultaCNPJ\obj\Debug\net9.0\RWTesteConsultaCNPJ.csproj.CoreCompileInputs.cache
+C:\RWTesteConsultaCNPJ\obj\Debug\net9.0\RWTesteConsultaCNPJ.dll
+C:\RWTesteConsultaCNPJ\obj\Debug\net9.0\refint\RWTesteConsultaCNPJ.dll
+C:\RWTesteConsultaCNPJ\obj\Debug\net9.0\RWTesteConsultaCNPJ.pdb
+C:\RWTesteConsultaCNPJ\obj\Debug\net9.0\RWTesteConsultaCNPJ.genruntimeconfig.cache
+C:\RWTesteConsultaCNPJ\obj\Debug\net9.0\ref\RWTesteConsultaCNPJ.dll
